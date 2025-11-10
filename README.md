@@ -47,7 +47,7 @@ This Power BI project provides a comprehensive analysis of customer behavior for
 
 -	**Clothing is the dominant category**, driving the highest revenue ($104K) and the largest number of sales (1,737 units sold).
 -	There is a **key difference in behavior by age**: While Seniors and Adults purchase frequently, the **Middle-aged** and **Young Adult** segments generate the most revenue, indicating a higher average spend.
--	A significant opportunity exists to **convert non-subscribed customers**. With 73% of the customer base not subscribed, creating targeted campaigns to move them to a subscription model could dramatically increase customer lifetime value and predictable revenue.
+-	A significant opportunity exists to **convert non-subscribed customers**. With 73% of the customer base not subscribed, creating targeted campaigns to move them to a subscription model could dramatically increase the customer lifetime value and predictable revenue.
 -	The **Average Review Rating of 3.8** is solid but indicates clear room for improvement. A strategic focus on product quality or shipping efficiency could boost this metric and improve customer loyalty.
 
 ## 🛠️ Tools & Skills Demonstrated
