@@ -3,7 +3,7 @@
 ### An end-to-end Power BI dashboard analyzing e-commerce customer patterns and engagement.
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZWYzNGQ0ZjQtNjlkOS00Y2ZhLWIwMTYtNzBhZWQwYWEzZWRkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9">
-  <img src="httpsYOUR_IMAGE_LINK_HERE/Project2_Customer_Behaviour_Dashboard.png" alt="Customer Behavior Dashboard" width="800">
+  <img src="https://github.com/AmitKPandeyLabs/PowerBI_2_Customer_Behaviour_Dashboard/raw/main/Project2_Customer_Behaviour_Dashboard.png" alt="Customer Behavior Dashboard" width="800">
 </a>
 
 ### [Click Here (Ctrl+Click opens new tab) to View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWYzNGQ0ZjQtNjlkOS00Y2ZhLWIwMTYtNzBhZWQwYWEzZWRkIiwidCI6ImIxMGVjNzYyLTA1NjEtNDVmZS1iN2NmLWFjMWI4MzZkZTI3NyIsImMiOjF9)
